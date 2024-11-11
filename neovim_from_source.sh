@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 sudo apt remove -y neovim
 sudo apt install -y ninja-build gettext cmake unzip curl
 git clone https://github.com/neovim/neovim /tmp/neovim
